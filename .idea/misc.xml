@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Navin Pai/KinTreeAssignment/app/src/main/res/drawable/fading_gradient.xml" value="0.151" />
+        <entry key="..\:/Users/Navin Pai/KinTreeAssignment/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/Navin Pai/KinTreeAssignment/app/src/main/res/layout/content_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/Navin Pai/KinTreeAssignment/app/src/main/res/layout/fragment_first.xml" value="0.2" />
+        <entry key="..\:/Users/Navin Pai/KinTreeAssignment/app/src/main/res/layout/fragment_second.xml" value="0.2015625" />
+        <entry key="..\:/Users/Navin Pai/KinTreeAssignment/app/src/main/res/layout/movies_card_layout.xml" value="0.41491085899513774" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
